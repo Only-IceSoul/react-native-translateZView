@@ -26,12 +26,12 @@ import ZView from 'react-native-translatezview';
  <ZView {...props}>
 ```
 
-## Props   
+## Props     
+   
+Android: Behavior as elevation without shadow  
+IOS: The layer’s position.  
 
-Android: Behavior as elevation without shadow
-IOS: The layer’s position.
-
-| Name  | type | default |
-| --- | --- | --- | --- |
-| translateZ  | Number | 0 |
-| translateZParent | Number | 0 |
+| Name  | type | default |  
+| --- | --- | --- | --- |  
+| translateZ  | Number | 0 |  
+| translateZParent | Number | 0 |  
