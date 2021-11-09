@@ -12,7 +12,6 @@ web : zIndex
 ## Getting started
 
 `$ npm install react-native-translatezview --save`  
-`$ react-native link react-native-translatezview`
 
 yarn:
 
@@ -30,10 +29,10 @@ import ZView from 'react-native-translatezview';
 ## Props     
    
 Android: Behavior as elevation without shadow  
-IOS: The layer’s position. 
+IOS: The layer’s position.   
 Web: zIndex 
 
 | Name  | type | default |  
-| --- | --- | --- | --- |  
+| --- | --- | --- |  
 | translateZ  | Number | 0 |  
 | translateZParent | Number | 0 |  
