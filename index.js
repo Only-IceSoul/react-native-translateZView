@@ -1,7 +1,7 @@
 // main index.js
 
-import { requireNativeComponent } from 'react-native';
+import ZViewComponent from './src/Zview'
 
-const ZView = requireNativeComponent("JJSTranslateZView",null)
+const ZView = ZViewComponent
 
 export default ZView;

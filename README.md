@@ -2,10 +2,11 @@
 
 Change the zIndex 
 
-(Useful to change z Index of view that you have no control and faster than the css zIndex)
+(Useful to change z Index of view that you have no control) (RecyclerListview)
 
 android: api 21+   
 ios : 10.0+   
+web : zIndex
 
 
 ## Getting started
@@ -29,7 +30,8 @@ import ZView from 'react-native-translatezview';
 ## Props     
    
 Android: Behavior as elevation without shadow  
-IOS: The layer’s position.  
+IOS: The layer’s position. 
+Web: zIndex 
 
 | Name  | type | default |  
 | --- | --- | --- | --- |  

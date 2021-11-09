@@ -1,8 +1,8 @@
 {
   "name": "react-native-translatezview",
   "title": "React Native Translatezview",
-  "version": "1.0.0",
-  "description": "TODO",
+  "version": "1.0.1",
+  "description": "Z Index Android Web IOS",
   "main": "index.js",
   "files": [
     "README.md",
