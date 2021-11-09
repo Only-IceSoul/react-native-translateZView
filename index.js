@@ -1,6 +1,6 @@
 // main index.js
 
-import ZViewComponent from './src/Zview'
+import ZViewComponent from './src/ZView'
 
 const ZView = ZViewComponent
 

@@ -1,7 +1,7 @@
 {
   "name": "react-native-translatezview",
   "title": "React Native Translatezview",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Z Index Android Web IOS",
   "main": "index.js",
   "files": [
